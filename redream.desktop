@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Redream
+GenericName=Dreamcast Emulator
+Comment=Dreamcast Emulator for Linux
+Exec=/home/rodrigo/Documents/tars/redream/redream
+Icon=/home/rodrigo/Documents/tars/redream/redream.png
+Categories=Game
